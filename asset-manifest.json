@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dataroom-deploy/static/css/main.abf198e0.css",
-    "main.js": "/dataroom-deploy/static/js/main.7c8a3787.js",
+    "main.js": "/dataroom-deploy/static/js/main.409de148.js",
     "index.html": "/dataroom-deploy/index.html",
     "main.abf198e0.css.map": "/dataroom-deploy/static/css/main.abf198e0.css.map",
-    "main.7c8a3787.js.map": "/dataroom-deploy/static/js/main.7c8a3787.js.map"
+    "main.409de148.js.map": "/dataroom-deploy/static/js/main.409de148.js.map"
   },
   "entrypoints": [
     "static/css/main.abf198e0.css",
-    "static/js/main.7c8a3787.js"
+    "static/js/main.409de148.js"
   ]
 }
